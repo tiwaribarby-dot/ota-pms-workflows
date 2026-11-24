@@ -10,10 +10,6 @@ Structured workflows, operational checklists, and technical documentation for ho
 - **Web, Hosting & DNS Administration:** Managing cPanel environments, domain configuration, and DNS record setup/verification (**TXT, SPF, DKIM, MX**) for email deliverability and web deployments.
 - **Process Standardization & Automation:** Building repeatable audit checklists and lightweight Python utilities to reduce manual errors in rate and data tracking.
 
-## Repository Contents
-- `checklists/ota-onboarding-audit.md` — End-to-end checklist for OTA & Profiroom channel setup and rate parity checks.
-- `checklists/dns-domain-verification.md` — Standard operating steps for cPanel & DNS authentication records.
-- `scripts/rate_parity_checker.py` — Sample Python script demonstrating automated rate comparison across channels.
 
 ## Client Feedback & Verified References
 - [OTA & Channel Management Project Review](https://www.freelancer.in/u/tanyat29?review_context_id=40610223&review_type=project&sb=t)
